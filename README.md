@@ -1,2 +1,2 @@
-# front_end
-Front End of DIALIFE
+# Django_dialife
+DIALIFE
